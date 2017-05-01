@@ -3,7 +3,7 @@ data:extend(
   {
     type = "solar-panel",
     name = "ultimate-solar",
-    icon = "__Advanced-Electric__/graphics/ultimate-solar/ultimate-solar.png",
+    icon = "__skan-advanced-solar__/graphics/ultimate-solar/ultimate-solar.png",
     flags = {"placeable-neutral", "player-creation"},
     minable = {hardness = 0.2, mining_time = 0.5, result = "ultimate-solar"},
     max_health = 500,
@@ -17,7 +17,7 @@ data:extend(
     },
     picture =
     {
-      filename = "__Advanced-Electric__/graphics/ultimate-solar/ultimate-solar.png",
+      filename = "__skan-advanced-solar__/graphics/ultimate-solar/ultimate-solar.png",
       priority = "high",
       width = 104,
       height = 96

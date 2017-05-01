@@ -3,7 +3,7 @@ data:extend(
   {
     type = "accumulator",
     name = "elite-accumulator",
-    icon = "__Advanced-Electric__/graphics/elite-accumulator/elite-accumulator.png",
+    icon = "__skan-advanced-solar__/graphics/elite-accumulator/elite-accumulator.png",
     flags = {"placeable-neutral", "player-creation"},
     minable = {hardness = 0.2, mining_time = 0.5, result = "elite-accumulator"},
     max_health = 250,
@@ -20,7 +20,7 @@ data:extend(
     },
     picture =
     {
-      filename = "__Advanced-Electric__/graphics/elite-accumulator/elite-accumulator.png",
+      filename = "__skan-advanced-solar__/graphics/elite-accumulator/elite-accumulator.png",
       priority = "extra-high",
       width = 124,
       height = 103,
@@ -28,7 +28,7 @@ data:extend(
     },
     charge_animation =
     {
-      filename = "__Advanced-Electric__/graphics/elite-accumulator/elite-accumulator-charge-animation.png",
+      filename = "__skan-advanced-solar__/graphics/elite-accumulator/elite-accumulator-charge-animation.png",
       width = 138,
       height = 135,
       line_length = 8,
@@ -40,7 +40,7 @@ data:extend(
     charge_light = {intensity = 0.3, size = 7},
     discharge_animation =
     {
-      filename = "__Advanced-Electric__/graphics/elite-accumulator/elite-accumulator-discharge-animation.png",
+      filename = "__skan-advanced-solar__/graphics/elite-accumulator/elite-accumulator-discharge-animation.png",
       width = 147,
       height = 128,
       line_length = 8,

@@ -3,7 +3,7 @@ data:extend(
   {
     type = "item",
     name = "ultimate-accumulator",
-    icon = "__Advanced-Electric__/graphics/ultimate-accumulator/ultimate-accumulator-icon.png",
+    icon = "__skan-advanced-solar__/graphics/ultimate-accumulator/ultimate-accumulator-icon.png",
     flags = {"goes-to-quickbar"},
     subgroup = "energy",
     order = "e-b",

@@ -3,7 +3,7 @@ data:extend(
   {
     type = "solar-panel",
     name = "advanced-solar",
-    icon = "__Advanced-Electric__/graphics/advanced-solar/advanced-solar.png",
+    icon = "__skan-advanced-solar__/graphics/advanced-solar/advanced-solar.png",
     flags = {"placeable-neutral", "player-creation"},
     minable = {hardness = 0.2, mining_time = 0.5, result = "advanced-solar"},
     max_health = 150,
@@ -17,7 +17,7 @@ data:extend(
     },
     picture =
     {
-      filename = "__Advanced-Electric__/graphics/advanced-solar/advanced-solar.png",
+      filename = "__skan-advanced-solar__/graphics/advanced-solar/advanced-solar.png",
       priority = "high",
       width = 104,
       height = 96
