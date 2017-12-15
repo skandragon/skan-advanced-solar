@@ -1,9 +1,11 @@
+
 data:extend(
 {
   {
     type = "accumulator",
     name = "advanced-accumulator",
-    icon = "__skan-advanced-solar__/graphics/advanced-accumulator/advanced-accumulator.png",
+    icon = "__skan-advanced-solar__/graphics/advanced-accumulator/advanced-accumulator-icon.png",
+    icon_size = 32,
     flags = {"placeable-neutral", "player-creation"},
     minable = {hardness = 0.2, mining_time = 0.5, result = "advanced-accumulator"},
     max_health = 250,

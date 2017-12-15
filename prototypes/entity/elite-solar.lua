@@ -3,7 +3,8 @@ data:extend(
   {
     type = "solar-panel",
     name = "elite-solar",
-    icon = "__skan-advanced-solar__/graphics/elite-solar/elite-solar.png",
+    icon = "__skan-advanced-solar__/graphics/elite-solar/elite-solar-icon.png",
+    icon_size = 32,
     flags = {"placeable-neutral", "player-creation"},
     minable = {hardness = 0.2, mining_time = 0.5, result = "elite-solar"},
     max_health = 250,

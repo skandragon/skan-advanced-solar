@@ -4,6 +4,7 @@ data:extend(
     type = "technology",
     name = "elite-accumulators",
     icon = "__base__/graphics/technology/electric-energy-acumulators.png",
+    icon_size = 128,
     effects =
     {
       {

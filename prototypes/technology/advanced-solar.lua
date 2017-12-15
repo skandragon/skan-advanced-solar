@@ -4,6 +4,7 @@ data:extend(
     type = "technology",
     name = "advanced-solar",
     icon = "__base__/graphics/technology/solar-energy.png",
+    icon_size = 128,
     effects =
     {
       {
