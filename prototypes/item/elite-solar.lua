@@ -1,5 +1,4 @@
-data:extend(
-{
+data:extend({
   {
     type = "item",
     name = "elite-solar",
@@ -11,5 +10,4 @@ data:extend(
     place_result = "elite-solar",
     stack_size = 50
   }
-}
-)
+})

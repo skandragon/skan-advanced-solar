@@ -1,5 +1,4 @@
-data:extend(
-{
+data:extend({
   {
     type = "technology",
     name = "advanced-solar",
@@ -26,5 +25,4 @@ data:extend(
     },
     order = "a-h-c",
   }
-}
-)
+})

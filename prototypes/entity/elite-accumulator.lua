@@ -1,5 +1,4 @@
-data:extend(
-{
+data:extend({
   {
     type = "accumulator",
     name = "elite-accumulator",
@@ -14,10 +13,10 @@ data:extend(
     energy_source =
     {
       type = "electric",
-      buffer_capacity = "500MJ",
+      buffer_capacity = "45MJ",
       usage_priority = "terciary",
-      input_flow_limit = "30MW",
-      output_flow_limit = "30MW"
+      input_flow_limit = "2.7MW",
+      output_flow_limit = "2.7MW"
     },
     picture =
     {
@@ -82,5 +81,4 @@ data:extend(
     circuit_wire_max_distance = 7.5,
     default_output_signal = { type = "virtual", name = "signal-A" }
   }
-}
-)
+})

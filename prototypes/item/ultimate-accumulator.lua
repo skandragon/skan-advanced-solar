@@ -1,5 +1,4 @@
-data:extend(
-{
+data:extend({
   {
     type = "item",
     name = "ultimate-accumulator",
@@ -11,5 +10,4 @@ data:extend(
     place_result = "ultimate-accumulator",
     stack_size = 50
   }
-}
-)
+})

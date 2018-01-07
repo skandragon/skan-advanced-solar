@@ -1,5 +1,4 @@
-data:extend(
-{
+data:extend({
   {
     type = "technology",
     name = "advanced-accumulators",
@@ -25,5 +24,4 @@ data:extend(
     },
     order = "c-e-b",
   }
-}
-)
+})

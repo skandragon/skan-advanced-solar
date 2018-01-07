@@ -1,5 +1,4 @@
-data:extend(
-{
+data:extend({
   {
     type = "solar-panel",
     name = "ultimate-solar",
@@ -23,7 +22,6 @@ data:extend(
       width = 104,
       height = 96
     },
-    production = "60MW"
+    production = "1.62MW"
   }
-}
-)
+})

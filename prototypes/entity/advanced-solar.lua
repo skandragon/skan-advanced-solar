@@ -1,5 +1,4 @@
-data:extend(
-{
+data:extend({
   {
     type = "solar-panel",
     name = "advanced-solar",
@@ -7,7 +6,7 @@ data:extend(
     icon_size = 32,
     flags = {"placeable-neutral", "player-creation"},
     minable = {hardness = 0.2, mining_time = 0.5, result = "advanced-solar"},
-    max_health = 150,
+    max_health = 200,
     corpse = "big-remnants",
     collision_box = {{-1.4, -1.4}, {1.4, 1.4}},
     selection_box = {{-1.5, -1.5}, {1.5, 1.5}},
@@ -23,7 +22,6 @@ data:extend(
       width = 104,
       height = 96
     },
-    production = "600kW"
+    production = "180kW"
   }
-}
-)
+})

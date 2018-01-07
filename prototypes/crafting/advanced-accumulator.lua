@@ -1,5 +1,4 @@
-data:extend(
-{
+data:extend({
   {
     type = "recipe",
     name = "advanced-accumulator",
@@ -7,11 +6,10 @@ data:extend(
     enabled = "false",
     ingredients =
     {
-      {"accumulator", 10},
+      {"accumulator", 5},
       {"iron-plate", 25},
       {"battery", 10}
     },
     result = "advanced-accumulator"
   }
-}
-)
+})

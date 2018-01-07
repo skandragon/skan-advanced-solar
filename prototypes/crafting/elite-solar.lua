@@ -1,5 +1,4 @@
-data:extend(
-{
+data:extend({
   {
     type = "recipe",
     name = "elite-solar",
@@ -9,9 +8,8 @@ data:extend(
     {
       {"steel-plate", 25},
       {"advanced-circuit", 15},
-      {"advanced-solar", 10}
+      {"advanced-solar", 5}
     },
     result = "elite-solar"
   }
-}
-)
+})

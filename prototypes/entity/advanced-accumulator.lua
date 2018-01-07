@@ -1,6 +1,4 @@
-
-data:extend(
-{
+data:extend({
   {
     type = "accumulator",
     name = "advanced-accumulator",
@@ -15,10 +13,10 @@ data:extend(
     energy_source =
     {
       type = "electric",
-      buffer_capacity = "50MJ",
+      buffer_capacity = "15MJ",
       usage_priority = "terciary",
-      input_flow_limit = "3MW",
-      output_flow_limit = "3MW"
+      input_flow_limit = "900kW",
+      output_flow_limit = "900kW"
     },
     picture =
     {
