@@ -4,7 +4,7 @@ data:extend({
     name = "ultimate-accumulator",
     icon = "__skan-advanced-solar__/graphics/ultimate-accumulator/ultimate-accumulator-icon.png",
     icon_size = 32,
-    flags = {"goes-to-quickbar"},
+    flags = {},
     subgroup = "energy",
     order = "e-b",
     place_result = "ultimate-accumulator",
