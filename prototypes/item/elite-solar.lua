@@ -4,10 +4,10 @@ data:extend({
     name = "elite-solar",
     icon = "__skan-advanced-solar__/graphics/elite-solar/elite-solar-icon.png",
     icon_size = 32,
-    flags = {"goes-to-quickbar"},
     subgroup = "energy",
     order = "d[solar-panel]-a[solar-panel]",
     place_result = "elite-solar",
-    stack_size = 50
+    stack_size = 50,
+    default_request_amount = 10
   }
 })
