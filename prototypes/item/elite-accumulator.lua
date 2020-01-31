@@ -5,7 +5,7 @@ data:extend({
     icon = "__skan-advanced-solar__/graphics/elite-accumulator/elite-accumulator-icon.png",
     icon_size = 32,
     subgroup = "energy",
-    order = "e-b",
+    order = "e[accumulator]-c[accumulator]",
     place_result = "elite-accumulator",
     stack_size = 50,
     default_request_amount = 10
