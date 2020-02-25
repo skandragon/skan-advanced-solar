@@ -1,4 +1,4 @@
-local vanilla_entity = data.raw["accumulator"]["accumulator"]
+local vanilla_entity = data.raw["accumulator"]["accumulator"]
 
 if not vanilla_entity.fast_replaceable_group then
 	vanilla_entity.fast_replaceable_group = "accumulator"

@@ -10,8 +10,8 @@ data:extend({
     corpse = "big-remnants",
     collision_box = {{-1.4, -1.4}, {1.4, 1.4}},
     selection_box = {{-1.5, -1.5}, {1.5, 1.5}},
-	fast_replaceable_group = "solar-panel",
-	next_upgrade = "elite-solar",
+	  fast_replaceable_group = "solar-panel",
+	  next_upgrade = "elite-solar",
     energy_source =
     {
       type = "electric",
