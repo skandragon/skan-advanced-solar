@@ -115,7 +115,9 @@ function get_circuit_connector_sprites(mainOffset, shadowOffset, connectorNumber
   end
   return result;
 end
-
+ -- Upgrade Planner Support
+require("prototypes.entity.solar-panel")
+require("prototypes.entity.accumulator")
  -- advanced accumulator
 require("prototypes.entity.advanced-accumulator")
 require("prototypes.item.advanced-accumulator")
@@ -146,3 +148,4 @@ require("prototypes.entity.ultimate-solar")
 require("prototypes.item.ultimate-solar")
 require("prototypes.crafting.ultimate-solar")
 require("prototypes.technology.ultimate-solar")
+
