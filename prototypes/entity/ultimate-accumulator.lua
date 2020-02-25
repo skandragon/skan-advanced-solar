@@ -10,6 +10,8 @@ data:extend({
     corpse = "medium-remnants",
     collision_box = {{-0.9, -0.9}, {0.9, 0.9}},
     selection_box = {{-1, -1}, {1, 1}},
+	fast_replaceable_group = "accumulator",
+	next_upgrade = nil,
     energy_source =
     {
       type = "electric",

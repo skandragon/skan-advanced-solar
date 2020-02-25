@@ -9,7 +9,9 @@ data:extend({
     max_health = 500,
     corpse = "big-remnants",
     collision_box = {{-1.4, -1.4}, {1.4, 1.4}},
-    selection_box = {{-1.5, -1.5}, {1.5, 1.5}},
+    selection_box = {{-1.5, -1.5}, {1.5, 1.5}},	
+	fast_replaceable_group = "solar-panel",
+	next_upgrade = nil,
     energy_source =
     {
       type = "electric",
